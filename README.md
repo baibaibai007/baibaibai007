@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on resting #DC0D15
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning volleyball🏐
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Just add some photos:#CCFF00 #EB0029 #1E54B7 #000000
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibaibai007)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibaibai007&show_icons=true&theme=radical)
